@@ -1,0 +1,10 @@
+date,product,region,amount
+2024-01-01,Product A,North,1000.0
+2024-01-01,Product B,South,1500.0
+2024-01-01,Product A,East,800.0
+2024-01-02,Product C,West,2000.0
+2024-01-02,Product A,North,1200.0
+2024-01-02,Product B,South,1800.0
+2024-01-03,Product B,East,950.0
+2024-01-03,Product C,North,2200.0
+2024-01-03,Product A,West,1100.0

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Force)",
+      "Bash(Select-Object Name)",
+      "Bash(pip install *)",
+      "Bash(python -m pytest tests/ -v --tb=short)",
+      "Bash(python *)",
+      "Bash(where python *)",
+      "Bash(C:\\\\Users\\\\misra\\\\AppData\\\\Local\\\\Python\\\\bin\\\\python.exe *)",
+      "Bash(git add *)"
+    ]
+  }
+}
